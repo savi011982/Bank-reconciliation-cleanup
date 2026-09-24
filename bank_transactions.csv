@@ -1,0 +1,67 @@
+Bank Ref,Date,Description,Amount
+B0001,2026-01-01,Payroll,-1613.81
+B0002,2026-01-01,Vendor payment,-3249.93
+B0003,2026-01-01,Customer deposit,9271.77
+B0004,2026-01-02,Customer deposit,5418.54
+B0005,2026-01-02,Vendor payment,-1397.77
+B0006,2026-01-02,Customer deposit,6440.6
+B0007,2026-01-03,Operating expense,-2685.76
+B0008,2026-01-03,Payroll,-2950.4
+B0009,2026-01-03,Customer deposit,10165.52
+B0010,2026-01-04,Payroll,-8802.21
+B0011,2026-01-05,Payroll,-2154.62
+B0012,2026-01-05,Operating expense,-1502.08
+B0013,2026-01-06,Payroll,-4647.5
+B0014,2026-01-07,Customer deposit,3490.38
+B0015,2026-01-07,Customer deposit,9189.21
+B0016,2026-01-07,Operating expense,-12170.67
+B0017,2026-01-08,Payroll,-7012.5
+B0018,2026-01-09,Customer deposit,2605.54
+B0019,2026-01-09,Vendor payment,-811.35
+B0020,2026-01-09,Customer deposit,9720.09
+B0021,2026-01-10,Operating expense,-10864.42
+B0022,2026-01-11,Payroll,-5804.28
+B0023,2026-01-11,Payroll,-2242.51
+B0024,2026-01-12,Customer deposit,8459.65
+B0025,2026-01-13,Vendor payment,-8028.48
+B0026,2026-01-13,Operating expense,-2251.68
+B0027,2026-01-13,Vendor payment,-3556.86
+B0028,2026-01-14,Customer deposit,4222.46
+B0029,2026-01-14,Customer deposit,3055.84
+B0030,2026-01-14,Operating expense,-10111.81
+B0031,2026-01-15,Payroll,-1060.81
+B0032,2026-01-15,Operating expense,-2854.68
+B0033,2026-01-16,Operating expense,-11087.37
+B0034,2026-01-16,Vendor payment,-2000.18
+B0035,2026-01-17,Payroll,-9376.12
+B0036,2026-01-18,Operating expense,-7411.18
+B0037,2026-01-18,Vendor payment,-4684.46
+B0038,2026-01-18,Customer deposit,6491.7
+B0039,2026-01-19,Vendor payment,-10798.51
+B0040,2026-01-20,Operating expense,-2209.78
+B0041,2026-01-20,Operating expense,-7556.01
+B0042,2026-01-20,Operating expense,-4924.84
+B0043,2026-01-21,Customer deposit,3329.82
+B0044,2026-01-21,Customer deposit,8583.47
+B0045,2026-01-21,Payroll,-8600.95
+B0046,2026-01-22,Payroll,-4417.15
+B0047,2026-01-22,Operating expense,-5575.87
+B0048,2026-01-22,Payroll,-289.76
+B0049,2026-01-23,Customer deposit,9584.04
+B0050,2026-01-23,Payroll,-10913.85
+B0051,2026-01-23,Vendor payment,-10560.45
+B0052,2026-01-24,Vendor payment,-4830.44
+B0053,2026-01-25,Customer deposit,11930.37
+B0054,2026-01-25,Operating expense,-7587.07
+B0055,2026-01-25,Payroll,-488.59
+B0056,2026-01-26,Vendor payment,-3183.29
+B0057,2026-01-26,Customer deposit,11005.62
+B0058,2026-01-27,Customer deposit,9215.87
+B0059,2026-01-28,Vendor payment,-9631.47
+B0060,2026-01-28,Vendor payment,-8331.95
+B0061,2026-01-28,Operating expense,-3496.94
+B0062,2026-01-29,Vendor payment,-11629.19
+B0063,2026-01-30,Payroll,-4068.52
+B0064,2026-01-30,Operating expense,-5616.73
+B0065,2026-01-30,Vendor payment,-1732.3
+B0066,2026-01-31,Vendor payment,-4391.55
