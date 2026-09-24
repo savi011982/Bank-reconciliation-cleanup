@@ -1,0 +1,7 @@
+Reference,Source,Description,Amount,Exception Type,Recommended Action
+B0007,Bank,Customer deposit,5200.0,Deposit in transit,Carry to reconciliation
+B0019,Bank,Vendor payment,-2150.0,Outstanding check,Carry to reconciliation
+B0034,Bank,Operating expense,-780.0,Timing difference,Investigate / verify
+G1001,GL,Bank service charge,-125.0,Unposted bank fee,Post JE
+G1002,GL,Interest income,85.0,Bank income not posted,Post JE
+G1003,GL,Duplicate vendor payment,-940.0,Duplicate entry,Reverse after verification

@@ -1,0 +1,8 @@
+Reconciliation Item,Amount
+Bank statement closing balance,214685.0
+Add: deposits in transit,5200.0
+Less: outstanding checks,-2150.0
+Adjusted bank balance,217735.0
+GL cash balance before adjustments,218715.0
+Net GL adjustments identified,-980.0
+Adjusted GL balance,217735.0
